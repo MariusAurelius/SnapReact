@@ -1,0 +1,2 @@
+# SnapReact
+An app made with Unity that provides some basic visual and audio stimuli for a random or user-defined duration, followed by a random or user-defined amount of delay, for a user-defined number of rounds.
